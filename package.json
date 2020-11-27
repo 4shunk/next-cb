@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "next-cb",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -21,8 +21,6 @@
     "sass": "1.28.0"
   },
   "license": "MIT",
-  "keywords": [
-    "next"
-  ],
-  "description": "A \"Hello World\" application with multiple pages that shows how Next.js routing works."
+  "keywords": [],
+  "description": ""
 }
